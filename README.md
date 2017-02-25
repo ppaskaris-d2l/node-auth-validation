@@ -1,4 +1,6 @@
 # brightspace-auth-validation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Brightspace/node-auth-validation.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Brightspace/node-auth-validation.svg?branch=master)](https://travis-ci.org/Brightspace/node-auth-validation)
 
 ## Usage
